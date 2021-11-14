@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+.atas {
+    width: 1500px;
+    height: 300px;
+    background-color: lightgreen;
+    margin: auto;
+}
+
+.row {
+    margin-top: 20px;
+    width: 1500px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.column {
+    height: 300px;
+    float: left;
+}
+
+.yellow {
+    width: 300px;
+    background-color: yellow;
+    float: left;
+}
+
+.orange {
+    width: 300px;
+    background-color: orange;
+    margin-left: 47px;
+    float: right;
+}
+.row2{
+    border: 1px solid black;
+    width: 1500px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.column2{
+    height: 300px;
+    border: 1px solid black;
+}
+
+.yellow{
+    width: 300px;
+    float: left;
+    background-color: yellow;
+}
+.blue {
+    width: 600px;
+    background-color: blue;
+    float: right;
+}
